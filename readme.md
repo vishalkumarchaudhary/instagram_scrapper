@@ -2,3 +2,4 @@
 #login is not  required to scrape for public data 
 #public profile name should be give in files name celeb.csv
 
+main.py does contain all the information for scrapping.
